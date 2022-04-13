@@ -9,10 +9,10 @@
 [![知乎](https://img.shields.io/badge/知乎-N%20诺-green.svg)](https://www.zhihu.com/people/noobdream/)   
 
 
-[学校简介&报考信息](https://www.noobdream.com/schoolinfo/4/)
+[学校简介&报考信息](https://www.noobdream.com/schoolinfo/21/)
 
-[历年考研经验贴](https://www.noobdream.com/school_article_list/4/)
+[历年考研经验贴](https://www.noobdream.com/school_article_list/21/)
 
-[历年机试真题](https://www.noobdream.com/Major/article/39/)
+[历年机试真题](https://www.noobdream.com/Major/article/262/)
 
 
