@@ -1,4 +1,4 @@
-# 北京大学
+# 兰州大学
 收集全国各个学校的计算机、软件考研信息，欢迎大家多提PR，祝大家早日上岸！
 
 仓库会持续更新，由于GitHub访问不稳定，N诺官网提供了提供了稳定的访问链接并会一直维护，让同学们可以放心的访问和下载资源。
@@ -9,10 +9,10 @@
 [![知乎](https://img.shields.io/badge/知乎-N%20诺-green.svg)](https://www.zhihu.com/people/noobdream/)   
 
 
-[学校简介&报考信息](https://www.noobdream.com/schoolinfo/4/)
+[学校简介&报考信息](https://www.noobdream.com/schoolinfo/48/)
 
-[历年考研经验贴](https://www.noobdream.com/school_article_list/4/)
+[历年考研经验贴](https://www.noobdream.com/school_article_list/48/)
 
-[历年机试真题](https://www.noobdream.com/Major/article/39/)
+[历年机试真题](https://www.noobdream.com/Major/article/42/)
 
 
