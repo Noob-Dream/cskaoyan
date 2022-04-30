@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/40/)
 
 
+## 外部链接汇总
+[清华大学计算机系考研攻略](/stellarkey/912_project/)
