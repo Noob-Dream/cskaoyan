@@ -16,3 +16,5 @@
 [历年机试真题](https://noobdream.com/Major/school_show/)
 
 
+## 外部链接汇总
+[JNU_CS](https://github.com/Steve0x2a/JNU_CS)
