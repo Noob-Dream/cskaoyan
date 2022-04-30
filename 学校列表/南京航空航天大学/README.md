@@ -17,4 +17,4 @@
 
 
 ## 外部链接汇总
-[熊二：南航计算机考研-专业课资料和信息汇总](/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)
+[awesome-nuaa-cs-kaoyan](/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)

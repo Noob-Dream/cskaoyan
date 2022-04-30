@@ -16,3 +16,5 @@
 [历年机试真题](https://noobdream.com/Major/school_show/)
 
 
+## 外部链接汇总
+[See_you_in_BUPT](/ningzimu/See_you_in_BUPT)

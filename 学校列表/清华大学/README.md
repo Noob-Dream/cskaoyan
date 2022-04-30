@@ -17,4 +17,4 @@
 
 
 ## 外部链接汇总
-[清华大学计算机系考研攻略](/stellarkey/912_project/)
+[912_project](/stellarkey/912_project/)

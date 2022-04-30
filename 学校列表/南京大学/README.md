@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/259/)
 
 
+## 外部链接汇总
+[nju_csai_kaoyan](/nju-kaoyan/nju_csai_kaoyan)
