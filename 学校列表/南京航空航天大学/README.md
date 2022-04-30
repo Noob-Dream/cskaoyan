@@ -16,3 +16,5 @@
 [历年机试真题](https://noobdream.com/Major/school_show/)
 
 
+## 外部链接汇总
+[熊二：南航计算机考研 专业课资料 和 信息汇总](/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)
