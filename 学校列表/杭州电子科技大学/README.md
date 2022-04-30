@@ -17,4 +17,4 @@
 
 
 ## 外部链接汇总
-[Hello_HDU](/ztygalaxy/Hello_HDU)
+[Hello_HDU](https://github.com/ztygalaxy/Hello_HDU)

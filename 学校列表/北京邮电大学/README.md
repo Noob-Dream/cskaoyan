@@ -17,4 +17,4 @@
 
 
 ## 外部链接汇总
-[See_you_in_BUPT](/ningzimu/See_you_in_BUPT)
+[See_you_in_BUPT](https://github.com/ningzimu/See_you_in_BUPT)

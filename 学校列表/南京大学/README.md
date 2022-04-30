@@ -17,4 +17,4 @@
 
 
 ## 外部链接汇总
-[nju_csai_kaoyan](/nju-kaoyan/nju_csai_kaoyan)
+[nju_csai_kaoyan](https://github.com/nju-kaoyan/nju_csai_kaoyan)

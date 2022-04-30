@@ -17,4 +17,4 @@
 
 
 ## 外部链接汇总
-[912_project](./../../stellarkey/912_project/)
+[912_project](https://github.com/stellarkey/912_project/)
