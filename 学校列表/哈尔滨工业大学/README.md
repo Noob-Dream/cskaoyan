@@ -16,3 +16,6 @@
 [历年机试真题](https://www.noobdream.com/Major/article/51/)
 
 
+
+## 外部链接汇总
+[hit-854](https://github.com/gcentqs/hit-854)

@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/53/)
 
 
+## 外部链接汇总
+[BUAA-CS-Codes](https://github.com/Muyiyunzi/BUAA-CS-Codes)

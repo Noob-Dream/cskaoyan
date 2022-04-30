@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/58/)
 
 
+## 外部链接汇总
+[ustc-cs-graduate](https://github.com/zdszero/ustc-cs-graduate)

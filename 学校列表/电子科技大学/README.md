@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/264/)
 
 
+## 电子科技大学
+[uestc_master_interview](https://github.com/Leslan/uestc_master_interview)

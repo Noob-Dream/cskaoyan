@@ -16,3 +16,5 @@
 [历年机试真题](https://noobdream.com/Major/school_show/)
 
 
+## 外部链接汇总
+[Postgraduate-Examination-Records](https://github.com/cyz9911/Postgraduate-Examination-Records)

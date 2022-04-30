@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/79/)
 
 
+## 外部链接汇总
+[FDSS_Algorithm](https://github.com/Currycurrycurry/FDSS_Algorithm)
