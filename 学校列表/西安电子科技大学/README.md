@@ -16,3 +16,6 @@
 [历年机试真题](https://noobdream.com/Major/school_show/)
 
 
+## 外部链接汇总
+[XDU_CS_kaoyan-wwyuj](https://github.com/wwyuj/XDU_CS_kaoyan)
+[XDU_CSkaoyan-Zbeyond](https://github.com/Zbeyond/XDU_CSkaoyan)

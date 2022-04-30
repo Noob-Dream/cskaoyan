@@ -18,3 +18,4 @@
 
 ## 外部链接汇总
 [NJUST-CSKAOYAN-OJ](https://github.com/Codave/NJUST-CSKAOYAN-OJ)
+[NJUST_CSmaster_kaoyan](https://github.com/pastrale/NJUST_CSmaster_kaoyan)
