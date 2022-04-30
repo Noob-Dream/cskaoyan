@@ -16,3 +16,5 @@
 [历年机试真题](https://noobdream.com/Major/school_show/)
 
 
+## 外部链接汇总
+[laoningdaxue-jisuanji-kaoyan](https://github.com/carerenx/laoningdaxue-jisuanji-kaoyan)

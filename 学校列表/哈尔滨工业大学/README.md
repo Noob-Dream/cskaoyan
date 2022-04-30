@@ -19,3 +19,4 @@
 
 ## 外部链接汇总
 [hit-854](https://github.com/gcentqs/hit-854)
+[HIT-854-Computer-Basics](https://github.com/iamFredHu/HIT-854-Computer-Basics)

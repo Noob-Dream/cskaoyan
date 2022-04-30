@@ -18,3 +18,4 @@
 
 ## 外部链接汇总
 [awesome-nuaa-cs-kaoyan](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan)
+[code](https://github.com/nuaa-cs-kaoyan/code)

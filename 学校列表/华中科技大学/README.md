@@ -17,4 +17,4 @@
 
 
 ## 外部链接汇总
-[HUST_cskaoyan](/BlackPeton/HUST_cskaoyan)
+[HUST_cskaoyan](https://github.com/BlackPeton/HUST_cskaoyan)

@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/82/)
 
 
+## 外部链接汇总
+[cquOPEN](https://github.com/Wanghui-Huang/cquOPEN)

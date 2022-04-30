@@ -16,3 +16,5 @@
 [历年机试真题](https://www.noobdream.com/Major/article/255/)
 
 
+## 华南理工大学
+[HuaNan](https://github.com/jakejie/HuaNan)
