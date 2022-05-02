@@ -3,7 +3,7 @@
 
 仓库会持续更新，由于GitHub访问不稳定，N诺官网提供了提供了稳定的访问链接并会一直维护，让同学们可以放心的访问和下载资源。
 
-![](https://img.shields.io/badge/License-MIT-00BFFF.svg)
+![](https://img.shields.io/badge/License-GPL-00BFFF.svg)
 [![noobdream](https://img.shields.io/badge/noobdream-N诺官网-orange.svg)](https://noobdream.com/) 
 [![Bilibili](https://img.shields.io/badge/bilibili-N诺%5F-blue.svg)](https://space.bilibili.com/73422093) 
 [![微信公众号](https://img.shields.io/badge/微信公众号-N诺考研-%23FF4D5B.svg)](https://mp.weixin.qq.com/s/36x28P6OLymapi4g38gq3g) 
